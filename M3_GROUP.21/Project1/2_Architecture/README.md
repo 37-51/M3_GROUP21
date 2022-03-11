@@ -1,2 +1,3 @@
 # Flowchart
-![flow](./m36.jpg)  
+![LCD](./m41.jpg)  
+![SWITCH](./m42.jpg)  
